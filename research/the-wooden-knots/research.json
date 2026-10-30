@@ -1,0 +1,412 @@
+{
+  "business_name": "The Wooden Knots",
+  "research_date": "2026-10-28",
+  "purpose": "Research and real-image assets for a user-selected local/private website demo.",
+  "owner_contacted": false,
+  "owner_approved_demo": false,
+  "verified_facts": {
+    "makers": {
+      "value": [
+        "Sanaa Sleem",
+        "Evana Hassanieh"
+      ],
+      "source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "note": "Heading names Sanaa (Ehsan) Sleem and Evana (Hatem) Hassanieh. The prose uses a different expanded form for Sanaa; use short names."
+    },
+    "craft": {
+      "value": "Handmade macrame",
+      "sources": [
+        "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+        "https://www.instagram.com/the_wooden_knots_/"
+      ]
+    },
+    "established": {
+      "value": "2022",
+      "source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots"
+    },
+    "location": {
+      "value": "Boqaata Jdaideh, Shouf, Mount Lebanon, Lebanon",
+      "source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots"
+    },
+    "atelier_address": {
+      "value": "Ain Wa Zein Hospital Road, Nasrallah Station Street, Ghasan Ghaith Building, 1st Floor, Boqaata Jdaideh",
+      "source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots"
+    },
+    "visit_arrangement": {
+      "value": "By appointment",
+      "source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots"
+    },
+    "product_range": {
+      "value": [
+        "Keychains",
+        "Curtains",
+        "Wall hangings",
+        "Gifts for special occasions"
+      ],
+      "source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots"
+    },
+    "directory_status": {
+      "value": "Active",
+      "source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "note": "Directory label at research time, not direct owner confirmation."
+    }
+  },
+  "public_contacts": {
+    "contact_name": "Sanaa Sleem",
+    "phone": "+96171420369",
+    "email": "sanaasleem2001@gmail.com",
+    "contact_source": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+    "phone_verification": "Observed in visible contact details and tel link in directory source HTML. No call or message sent.",
+    "whatsapp_status": "Not explicitly identified as WhatsApp in the inspected directory; do not label as verified WhatsApp.",
+    "instagram": "https://www.instagram.com/the_wooden_knots_/",
+    "facebook": "https://www.facebook.com/people/the-wooden-knots/61555555686888/",
+    "tiktok": "https://www.tiktok.com/@thewoodenknots",
+    "makers_instagram_handles": [
+      "@evana.h.hassanieh",
+      "@sanaasleem"
+    ],
+    "map_coordinates": {
+      "latitude": 33.665939,
+      "longitude": 35.600132,
+      "source": "Google Maps link on directory profile"
+    }
+  },
+  "instagram_observations": {
+    "public_html_retrieved": true,
+    "metadata_business_name": "The Wooden knots",
+    "metadata_description_summary": "Public profile metadata describes handmade macrame and directs orders to DMs; it mentions delivery across Lebanon and tags both makers.",
+    "metadata_source": "https://www.instagram.com/the_wooden_knots_/",
+    "captured_metadata_file": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\instagram-metadata.json",
+    "limit": "Full live profile/feed and bio-link interface were not available in retrieved logged-out page. No separate standalone business link observed.",
+    "delivery_caution": "The biography mentions Lebanon delivery, but fees, timing, coverage exceptions and current service are unconfirmed. Prefer Ask about delivery in demo.",
+    "delivery_statement_as_displayed": "Delivery all over Lebanon",
+    "delivery_statement_attribution": "Instagram profile description metadata, retrieved 2026-10-28 from https://www.instagram.com/the_wooden_knots_/"
+  },
+  "existing_website_screening": {
+    "status": "No matching standalone website found in this bounded public screen; absence not verified.",
+    "standalone_website_found": null,
+    "absence_verified": false,
+    "owner_confirmation_of_no_website": false,
+    "query_groups": [
+      {
+        "queries": [
+          "\"The Wooden Knots\" Lebanon website",
+          "\"the_wooden_knots_\"",
+          "\"Sanaa Sleem\" \"Evana Hassanieh\"",
+          "\"The Wooden Knots\" Boqaata Jdaideh"
+        ],
+        "finding": "Only matching public directory listings were returned among relevant results; no matching standalone website identified."
+      },
+      {
+        "queries": [
+          "\"The Wooden Knots\" macrame Lebanon",
+          "\"the_wooden_knots_\" website shop",
+          "\"Sanaa Sleem\" macrame",
+          "\"Evana Hassanieh\" macrame"
+        ],
+        "finding": "No matching standalone website identified; several results unrelated to this business."
+      },
+      {
+        "queries": [
+          "\"thewoodenknots\" Lebanon",
+          "\"The Wooden Knots\" \"Lebanon\" -site:thereadyhand.com",
+          "\"The Wooden Knots\" \"Sanaa\"",
+          "\"the_wooden_knots_\" -site:thereadyhand.com"
+        ],
+        "finding": "No matching standalone website identified; results largely unrelated. Search coverage alone cannot establish absence."
+      },
+      {
+        "queries": [
+          "\"71420369\"",
+          "\"sanaasleem2001@gmail.com\"",
+          "\"The Wooden Knots\" shop macrame website"
+        ],
+        "finding": "No matching standalone website identified; phone digits also match unrelated numeric identifiers."
+      }
+    ],
+    "inspected_sources": [
+      {
+        "url": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+        "result": "Profile contact/social area lists Instagram, Facebook and TikTok; no standalone website link present."
+      },
+      {
+        "url": "https://www.instagram.com/the_wooden_knots_/",
+        "result": "HTTP 200 public HTML and profile metadata retrieved. Full dynamic profile content unavailable; no business website link exposed in accessible metadata."
+      },
+      {
+        "url": "https://www.facebook.com/profile.php?id=61555555686888",
+        "result": "HTTP 200 redirects to matching people page. Public metadata describes handmade macrame and DM orders. Full page details unavailable; no business website verified."
+      },
+      {
+        "url": "https://www.tiktok.com/@thewoodenknots",
+        "result": "HTTP 200 returned a minimal page, insufficient for profile-link screening."
+      }
+    ],
+    "cautions": [
+      "Search results are incomplete and cannot establish that no website exists.",
+      "No owner confirmation was obtained.",
+      "Present as a user-selected demo, not a verified business without a website."
+    ]
+  },
+  "image_count": 10,
+  "images": [
+    {
+      "index": 1,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\01-IMG_1009_20260928180650282_53f06b.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/ContentPhotos/Photos/IMG_1009_20260928180650282_53f06b.jpeg",
+      "bytes": 427375,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/ContentPhotos/Photos/IMG_1009_20260928180650282_53f06b.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "5ac7a79ed31b6e1e54a64917e26ed17ba1cbe490f6d7193247338ec6cd8822d6",
+      "descriptive_name": "Macrame waist accessory",
+      "alt_text": "Woman wearing a cream macrame waist accessory in front of a large wall hanging.",
+      "proposed_category": "Accessories",
+      "recommended_use": "about / styling",
+      "caution": "The identity of the person is not confirmed; do not identify her as either maker.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 2,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\02-IMG_0970_20260928180650732_103b38.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0970_20260928180650732_103b38.jpeg",
+      "bytes": 350082,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0970_20260928180650732_103b38.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "3e6637f5ebb66dc80cbc91838e7c36601538eeb3e797272760018b0f839567f2",
+      "descriptive_name": "Colorful leaf wall hanging",
+      "alt_text": "Green, pink and cream macrame leaves hanging from a natural branch.",
+      "proposed_category": "Wall hangings",
+      "recommended_use": "collection / product",
+      "caution": "Descriptive label only, not an official product name.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 3,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\03-IMG_0976_20260928180650806_d8d1f6.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0976_20260928180650806_d8d1f6.jpeg",
+      "bytes": 296301,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0976_20260928180650806_d8d1f6.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "fe4d4de844dccb1334006d834cf76486b67bb4ee1d20fdd5e89a65bdca35e465",
+      "descriptive_name": "Hoop wall hanging",
+      "alt_text": "Cream macrame cords and fringe suspended from a circular hoop.",
+      "proposed_category": "Wall hangings",
+      "recommended_use": "collection / product",
+      "caution": "Descriptive label only; dimensions and materials are not verified.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 4,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\04-IMG_0971_20260928180650878_86498a.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0971_20260928180650878_86498a.jpeg",
+      "bytes": 404593,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0971_20260928180650878_86498a.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "db1340768ad0c4858c93738fa3857ea50df94e7533bfaa302dd6319b7d9b5d2b",
+      "descriptive_name": "Macrame cushions",
+      "alt_text": "Brown and cream cushions with knotted macrame covers and fringe.",
+      "proposed_category": "Home accents",
+      "recommended_use": "collection / product",
+      "caution": "Descriptive label only; no price or stock information.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 5,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\05-IMG_0965_20260928180650977_7336b6.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0965_20260928180650977_7336b6.jpeg",
+      "bytes": 386166,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0965_20260928180650977_7336b6.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "c8c04e0a7645f15e79b254cec30d3a29e8bb78428c3d72fc26f2e3f82160649a",
+      "descriptive_name": "Cream macrame curtain",
+      "alt_text": "Wide cream macrame hanging with long side fringe displayed on a wooden frame.",
+      "proposed_category": "Curtains and backdrops",
+      "recommended_use": "recommended hero / collection",
+      "caution": "Do not imply event installation or rental services are available.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 6,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\06-IMG_0969_20260928180651052_afc610.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0969_20260928180651052_afc610.jpeg",
+      "bytes": 355142,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0969_20260928180651052_afc610.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "d8f72b02a78a316c9e396bd79655b8e7612dc769539e3db642cb54c8fb1d51bc",
+      "descriptive_name": "Brown wall hanging in atelier",
+      "alt_text": "Brown geometric macrame wall hanging above a glowing The Wooden Knots sign.",
+      "proposed_category": "Wall hangings",
+      "recommended_use": "brand story / collection",
+      "caution": "Small sign is part of the real photograph; no separate logo asset is claimed.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 7,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\07-IMG_0998_20260928180651128_cbbac2.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0998_20260928180651128_cbbac2.jpeg",
+      "bytes": 435126,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0998_20260928180651128_cbbac2.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "99c030a2de29179813d0b9230f9f5d30a15ab8bb53bffe4a41780c09be08faff",
+      "descriptive_name": "Turquoise fringed mirror",
+      "alt_text": "Round mirror framed with dense turquoise knotted fringe.",
+      "proposed_category": "Home accents",
+      "recommended_use": "collection / product",
+      "caution": "Descriptive label only, not an official product name.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 8,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\08-IMG_0977_20260928180651200_b705e4.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0977_20260928180651200_b705e4.jpeg",
+      "bytes": 434217,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0977_20260928180651200_b705e4.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "f8deb2d2f9b0123114b128c2593ca7877c775f8983ae34ead1e99fe1327be589",
+      "descriptive_name": "Macrame plant hanger",
+      "alt_text": "Brown macrame plant hanger holding a blue pot beside a cream wall hanging.",
+      "proposed_category": "Plant hangers",
+      "recommended_use": "collection / product",
+      "caution": "Plant and pot inclusion in an order is unverified.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 9,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\09-IMG_0999_20260928180651384_9c2e90.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0999_20260928180651384_9c2e90.jpeg",
+      "bytes": 446366,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0999_20260928180651384_9c2e90.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "4d7713363eb7fe63536980fa2bd693ad9789866b08377c7bb7c1f44139b5e0cd",
+      "descriptive_name": "Macrame knotting process",
+      "alt_text": "Hands tying cream cord onto a brown and cream macrame piece.",
+      "proposed_category": "The making",
+      "recommended_use": "craft process / about",
+      "caution": "Process image, not a separate product listing.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    },
+    {
+      "index": 10,
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\10-IMG_0978_20260928180651557_0c277a.jpeg",
+      "source_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0978_20260928180651557_0c277a.jpeg",
+      "bytes": 498304,
+      "width": 480,
+      "height": 640,
+      "gallery_link_url": "https://www.thereadyhand.com/azure/Assets/Library/Gallery/WebsiteContent/Entities/n23957/IMG_0978_20260928180651557_0c277a.jpeg?w=1380&h=1780&mode=max&scale=auto",
+      "sha256": "d41acfe6310f30691ada19baf67ac3c89d2787201ff149b2fc716401924ea484",
+      "descriptive_name": "Macrame bags and basket",
+      "alt_text": "Fringed cream macrame bag with dark handles, beside a woven basket and colorful craft pieces.",
+      "proposed_category": "Bags and baskets",
+      "recommended_use": "collection / product",
+      "caution": "Do not imply all background pieces are currently available.",
+      "source_page": "https://www.thereadyhand.com/map-and-directory/the-wooden-knots",
+      "identification_basis": "Exact gallery anchors marked entity-details-gallery-desktop and data-caption The Wooden Knots in this business profile; entity n23957.",
+      "visual_inspection": "Inspected in contact-sheet.jpg; original JPEG downloaded without resizing query.",
+      "rights_status": "Publicly accessible business-profile gallery photo. No reuse license or owner approval was verified; gathered for local/private demo only."
+    }
+  ],
+  "contact_sheet": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\contact-sheet.jpg",
+  "recommended_image_roles": {
+    "hero": 5,
+    "craft_story": 9,
+    "brand_story": 6,
+    "featured_products": [
+      2,
+      3,
+      4,
+      7,
+      8,
+      10
+    ],
+    "optional_styling_photo": 1
+  },
+  "content_cautions": [
+    "No owner-approved prices, inventory, dimensions, exact materials or product names.",
+    "Do not invent availability, lead times, discounts, shipping fees, free delivery, warranties, returns or payment methods.",
+    "Use inquiry actions and descriptive gallery labels. Confirm the item, timing and any delivery details with the makers.",
+    "No customer reviews or testimonials were verified.",
+    "Keep demo clearly identified as independent and local/private. No owner approval or affiliation was established.",
+    "Public image access does not establish reuse permission. Obtain owner authorization before external publication.",
+    "Source images are 480x640 pixels; avoid excessive enlargement or claiming higher resolution.",
+    "A genuine named business logo is available from the linked Facebook profile; current owner approval and brand preference are unconfirmed."
+  ],
+  "evidence_files": [
+    "directory-source.html",
+    "instagram-source.html",
+    "instagram-metadata.json",
+    "facebook-source.html",
+    "facebook-metadata.json",
+    "tiktok-source.html",
+    "gallery-sources.json",
+    "image-downloads.json",
+    "contact-sheet.jpg",
+    "instagram-avatar-candidate.jpg",
+    "facebook-avatar-candidate.jpg"
+  ],
+  "brand_assets": [
+    {
+      "descriptive_name": "The Wooden Knots public Facebook profile logo",
+      "local_path": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\images\\11-facebook-profile-logo.jpg",
+      "source_url": "https://scontent.fbey14-1.fna.fbcdn.net/v/t39.30808-1/420113932_122102258528185189_5359797121901505274_n.jpg?stp=dst-jpg_tt6&cstp=mx960x958&ctp=s720x720&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=3ab345&_nc_ohc=743HLJX8zygQ7kNvwHFuJTJ&_nc_oc=AdpBW8cAJqT_4wVOxxTSf3xtxpPti53CmuKFkoAhH0mF0s8hsww9WioYyRewbnnzrH8&_nc_zt=24&_nc_ht=scontent.fbey14-1.fna&_nc_gid=D2CQrpvazTo2SBAdqHj1Rg&_nc_ss=7920f&oh=00_AQTmFJMcIC6ZgDOEb9B7FNYH9K_RcgA73gLVbkAHDSKqFA&oe=6AE8112A",
+      "source_page": "https://www.facebook.com/people/the-wooden-knots/61555555686888/",
+      "width": 720,
+      "height": 719,
+      "bytes": 71402,
+      "sha256": "46dacfa599b9effb45e90bfc199fcd13fde8ac14fffa77d03679e0e125905024",
+      "alt_text": "The Wooden Knots name around a black floral dreamcatcher illustration on white.",
+      "proposed_category": "Brand logo",
+      "identification_basis": "Linked business Facebook profile public og:image; visually inspected and contains THE WOODEN KNOTS text.",
+      "cautions": [
+        "Downloaded unchanged; appears oriented as supplied by the public profile.",
+        "Facebook avatar may be an older brand mark; the current Instagram avatar is a macrame photograph, not a logo.",
+        "No reuse license or owner approval verified; for local/private demo."
+      ]
+    }
+  ],
+  "avatar_screening": {
+    "instagram": {
+      "result": "Photographic macrame avatar, not a separate business logo; skipped as brand asset.",
+      "candidate_file": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\instagram-avatar-candidate.jpg"
+    },
+    "facebook": {
+      "result": "Genuine named business logo image; included as brand asset.",
+      "candidate_file": "C:\\Projects\\business-websites\\research\\the-wooden-knots\\facebook-avatar-candidate.jpg"
+    }
+  }
+}
