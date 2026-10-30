@@ -1,0 +1,191 @@
+{
+  "slug": "the-wooden-knots",
+  "name": "The Wooden Knots",
+  "theme": "wooden",
+  "phone": "+96171420369",
+  "phoneDisplay": "+961 71 420 369",
+  "email": "sanaasleem2001@gmail.com",
+  "instagram": "https://www.instagram.com/the_wooden_knots_/",
+  "instagramHandle": "@the_wooden_knots_",
+  "location": "Boqaata Jdaideh, Shouf",
+  "makers": "Sanaa Sleem & Evana Hassanieh",
+  "address": "Ain Wa Zein Hospital Road, Nasrallah Station Street, Ghasan Ghaith Building, 1st Floor, Boqaata Jdaideh, Lebanon",
+  "mapUrl": "https://www.google.com/maps?q=33.665939,35.600132",
+  "eyebrow": "The art of handmade macrame",
+  "headline": "A little knot.<br>A lot of <em>character.</em>",
+  "intro": "Macrame with presence. Discover textured wall pieces, soft home accents and thoughtful little gifts from two makers in the Shouf.",
+  "photoTag": "Made of little details",
+  "stamp": "Knot by knot<br>In Lebanon",
+  "heroPhoto": 5,
+  "insetPhoto": 2,
+  "storyPhoto": 9,
+  "featured": [
+    "hoop-wall-hanging",
+    "macrame-cushions",
+    "turquoise-mirror",
+    "plant-hanger"
+  ],
+  "storyLabel": "Two makers. One shared thread.",
+  "storyTitle": "From our hands,<br>to your <em>everyday.</em>",
+  "storyShort": "The Wooden Knots brings together Sanaa Sleem and Evana Hassanieh in Boqaata Jdaideh. Their macrame work spans wall hangings, curtains and gifts for special occasions.",
+  "storyLong": "Established in 2022, The Wooden Knots is a macrame project by Sanaa Sleem and Evana Hassanieh. Working from Boqaata Jdaideh in the Shouf, the makers explore the possibilities of knotting through pieces for the home and small gifts.",
+  "storySecond": "The photographs bring that range together: layered leaves, geometric wall pieces, fringed mirrors, cushions and bags. Find a piece that speaks to you, save the photograph, then talk with the makers about the details.",
+  "statement": "Texture for a quiet corner.<br>Character for a space you love.",
+  "visit": "Atelier visits are by appointment. Please call to arrange a time.",
+  "closingTitle": "Have a corner<br>in <em>mind?</em>",
+  "closingText": "A wall, a window, a gift. Share the piece that caught your eye and the details you have in mind.",
+  "collectionIntro": "A closer look at knotted textures for the home and beyond. Save your favourite photo references, then ask the makers about possibilities and pricing.",
+  "galleryIntro": "Explore the details, the textures and the work in progress. Open any photograph for a full view.",
+  "categories": [
+    "Wall pieces",
+    "Home accents",
+    "Curtains",
+    "Bags & gifts"
+  ],
+  "photos": [
+    {
+      "file": "photo-01.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Macrame waist accessory",
+      "alt": "Woman wearing a cream macrame waist accessory in front of a large wall hanging."
+    },
+    {
+      "file": "photo-02.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Colorful leaf wall hanging",
+      "alt": "Green, pink and cream macrame leaves hanging from a natural branch."
+    },
+    {
+      "file": "photo-03.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Hoop wall hanging",
+      "alt": "Cream macrame cords and fringe suspended from a circular hoop."
+    },
+    {
+      "file": "photo-04.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Macrame cushions",
+      "alt": "Brown and cream cushions with knotted macrame covers and fringe."
+    },
+    {
+      "file": "photo-05.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Cream macrame curtain",
+      "alt": "Wide cream macrame hanging with long side fringe displayed on a wooden frame."
+    },
+    {
+      "file": "photo-06.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Brown wall hanging in atelier",
+      "alt": "Brown geometric macrame wall hanging above a glowing The Wooden Knots sign."
+    },
+    {
+      "file": "photo-07.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Turquoise fringed mirror",
+      "alt": "Round mirror framed with dense turquoise knotted fringe."
+    },
+    {
+      "file": "photo-08.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Macrame plant hanger",
+      "alt": "Brown macrame plant hanger holding a blue pot beside a cream wall hanging."
+    },
+    {
+      "file": "photo-09.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Macrame knotting process",
+      "alt": "Hands tying cream cord onto a brown and cream macrame piece."
+    },
+    {
+      "file": "photo-10.jpg",
+      "width": 480,
+      "height": 640,
+      "title": "Macrame bags and basket",
+      "alt": "Fringed cream macrame bag with dark handles, beside a woven basket and colorful craft pieces."
+    }
+  ],
+  "pieces": [
+    {
+      "id": "leaf-wall-hanging",
+      "title": "Leaf wall hanging",
+      "category": "Wall pieces",
+      "description": "Layers of green, pink and cream leaves on a natural branch. A photo reference for discussing a wall piece and your preferred palette.",
+      "photos": [
+        2
+      ]
+    },
+    {
+      "id": "hoop-wall-hanging",
+      "title": "Cream hoop wall hanging",
+      "category": "Wall pieces",
+      "description": "A round hoop with cream knotwork and a long, soft fringe. Ask the makers about sizes and possible variations.",
+      "photos": [
+        3
+      ]
+    },
+    {
+      "id": "macrame-cushions",
+      "title": "Textured cushions",
+      "category": "Home accents",
+      "description": "Brown and cream cushions with raised macrame textures. Use this photograph to discuss a cushion idea for your space.",
+      "photos": [
+        4
+      ]
+    },
+    {
+      "id": "cream-curtain",
+      "title": "Cream macrame curtain",
+      "category": "Curtains",
+      "description": "An open, geometric curtain displayed on a wooden frame. Share your opening measurements to discuss what may be possible.",
+      "photos": [
+        5
+      ]
+    },
+    {
+      "id": "geometric-wall-piece",
+      "title": "Geometric wall piece",
+      "category": "Wall pieces",
+      "description": "A brown wall hanging with repeating geometric knotwork, photographed in the atelier.",
+      "photos": [
+        6
+      ]
+    },
+    {
+      "id": "turquoise-mirror",
+      "title": "Turquoise fringe mirror",
+      "category": "Home accents",
+      "description": "A round mirror framed by turquoise knotwork and fringe. Ask about the piece and your preferred colour.",
+      "photos": [
+        7
+      ]
+    },
+    {
+      "id": "plant-hanger",
+      "title": "Knotted plant hanger",
+      "category": "Home accents",
+      "description": "A brown knotted hanger shown with a potted plant. Confirm the hanger details and what is included directly with the makers.",
+      "photos": [
+        8
+      ]
+    },
+    {
+      "id": "bag-and-basket",
+      "title": "Bag & basket textures",
+      "category": "Bags & gifts",
+      "description": "A fringed macrame bag and basket in the makers' gallery. Tell the makers which piece in the photograph you are interested in.",
+      "photos": [
+        10
+      ]
+    }
+  ]
+}
